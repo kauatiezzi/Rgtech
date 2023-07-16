@@ -22,7 +22,7 @@ Veja abaixo as imagens feitas no projeto.  <br/>
 
 <p align="center">
   <img alt="preview do site" src="preview.gif" width="100%">
-  <img alt="preview do site" src=".github/preview1.png" width="100%">
+  <img alt="preview do site" src=".github/preview1.jpg" width="100%">
   <img alt="preview do site" src=".github/preview2.png" width="100%">
   <img alt="preview do site" src=".github/preview3.png" width="100%">
   <img alt="preview do site" src=".github/preview5.png" width="100%">
