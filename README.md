@@ -21,7 +21,7 @@ Veja abaixo as imagens feitas no projeto.  <br/>
 </p>
 
 <p align="center">
-  <img alt="recycle oil imagens" src="animacao.gif" width="100%">
+  <img alt="recycle oil imagens" src="animação.gif" width="100%">
   <img alt="recycle oil imagens" src=".github/preview1.jpg" width="100%">
 </p>
 
